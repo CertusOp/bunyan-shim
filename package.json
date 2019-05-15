@@ -1,0 +1,6 @@
+{
+    "name": "bunyan",
+    "version": "0.0.1",
+    "description": "Shim for bunyan",
+    "main": "lib/index.js"
+}
